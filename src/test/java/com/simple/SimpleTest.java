@@ -1,4 +1,4 @@
-package com.gutmox;
+package com.simple;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
